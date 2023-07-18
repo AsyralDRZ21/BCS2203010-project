@@ -1,0 +1,1 @@
+web: gunicorn COCURICULAR.wsgi --log-file -
